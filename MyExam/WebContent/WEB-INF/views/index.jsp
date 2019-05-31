@@ -11,11 +11,10 @@
 
 <h1>Welcome to Student Management System</h1>
 
-<a href="add_entries">Add Records</a> | 
-<a href="modify_entries">Modify Records</a> |
-<a href="update_entries">Update Records</a> |
-<a href="delete_records">Delete Records</a> |
-<a href="list_records">List Records</a>
+<a href="addpage">Add Records</a> |
+<a href="listrecords">List Records</a> |
+
+<a href="students">studentPage</a>
 
 
 </body>
